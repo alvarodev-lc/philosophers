@@ -2,7 +2,7 @@
     ; NCP
     ; Timer 1 ISR with no C header
     
-    .include "p33FJ128MC802.inc"
+    .include "p33FJ64MC802.inc"
     
     ; Variables used by the scheduler
     .extern task_stack_address
