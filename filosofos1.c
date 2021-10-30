@@ -1,11 +1,11 @@
 /*
- * File:   ensayo-1.c
- * Author: norberto
+ * File:  filosofos1.c
+ * Author: nalvaro
  *
  * Created on 2 de octubre de 2021, 13:29
  */
 
-// DSPIC33FJ128MC802 Configuration Bit Settings
+// DSPIC33FJ64MC802 Configuration Bit Settings
 
 // 'C' source line config statements
 
