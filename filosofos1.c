@@ -1,6 +1,6 @@
 /*
  * File:  filosofos1.c
- * Author: nalvaro
+ * Author: alvaro
  *
  * Created on 2 de octubre de 2021, 13:29
  */
